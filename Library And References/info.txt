@@ -1,0 +1,10 @@
+arduino sensor unified library should be added to DHT folder
+
+https://github.com/adafruit/Adafruit_Sensor
+
+
+
+
+WIKI 
+
+http://www.instructables.com/id/Arduino-and-DHT11-Temperature-Measurement/
